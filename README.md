@@ -5,12 +5,16 @@
 - ❤️ Area Favorita: Front-end
 - 📖 Faculdade: Sistemas para Internet (Cursando)
 
- ##### Ta meio fraquinho ainda 😖
+##
+
+ ##### Minha atividade no GitHub 🤖
 
 <div>
   <a href="https://github.com/heloriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
+ 
+ ##
   
   ##### Skill Set 🧠
  
@@ -39,6 +43,8 @@
     </tr>
   </table>
   
+ ##
+ 
   ##### Meus Contatos 💬
   
   <div>
