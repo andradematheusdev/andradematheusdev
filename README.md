@@ -5,8 +5,6 @@
 - ❤️ Area Favorita: Front-end
 - 📖 Faculdade: Sistemas para Internet (Cursando)
 
-<br />
-
  ##### Ta meio fraquinho ainda 😖
 
 <div>
