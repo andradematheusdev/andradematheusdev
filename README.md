@@ -24,8 +24,8 @@
   
   ##### 🧠 Skills Set 
  
- <kbd>
-      <kbd>Gosto de:</kbd>
+ <kbd align="center">
+      <kbd>Conhecimento em:</kbd>
       <br />
       <br />
       <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,8 +36,8 @@
 <br />
 <br /> 
 </kbd>
-<kbd>
-<kbd>Atualmente Estudando:</kbd>
+<kbd align="center">
+<kbd>Estudando:</kbd>
  <br />
  <br />
       <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
@@ -45,8 +45,8 @@
  <br />
  <br />
 </kbd> 
-<kbd>
-<kbd>Tenho Interesse em Aprender:</kbd> 
+<kbd align="center">
+<kbd>Interesse em:</kbd> 
      <br />
      <br />
       <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
