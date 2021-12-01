@@ -1,4 +1,5 @@
 # Olá, bem vindo(a) ao meu espaço! 😁
+
 ##### Sou um estudante de programação que ama técnologia!
 
 - 🎂 26 Anos
@@ -6,11 +7,11 @@
 - ❤️ Gosto de Front-end e Back-end.
 - 📖 Atualmente cursando Sistemas para Internet.
 
-<div align="center">
+<div>
 
 ##
 
- ##### 🤖 Minha atividade no GitHub 
+##### 🤖 Minha atividade no GitHub
 
 <div style="display: inline_block;">
   <a href="https://github.com/heloriel">
@@ -23,31 +24,36 @@
   
   ##### 🧠 Skills Set 
  
-  <table>
-    <tr>
-      <td>Gosto de:</td>
-      <td>Atualmente Estudando:</td>
-      <td>Tenho Interesse em Aprender:</td>
-    </tr>
-    <tr>
-      <td>
+ <kbd>
+      <kbd>Gosto de:</kbd>
+      <br />
+      <br />
       <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
-      </td>
-      <td>      
+      <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br />
+<br /> 
+</kbd>
+<kbd>
+<kbd>Atualmente Estudando:</kbd>
+ <br />
+ <br />
       <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-      <img align="center" title="Laravel 8" alt="Laravel 8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">       
-      </td>
-      <td>      
+      <img align="center" title="Laravel 8" alt="Laravel 8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+ <br />
+ <br />
+</kbd> 
+<kbd>
+<kbd>Tenho Interesse em Aprender:</kbd> 
+     <br />
+     <br />
       <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">        
-      </td>
-    </tr>
-  </table>
-  
+      <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">        <br />
+ <br />
+ </kbd>
+ 
  ##
  
   ##### 💬 Meus Contatos 
@@ -57,7 +63,3 @@
      <a href = "mailto:andradematheus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/BYZ8pET" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  </div>
-  
-  
-
-  
