@@ -5,7 +5,7 @@
 - 🎂 26 Anos
 - 💼 Atualmente trabalho como Designer Gráfico, porém estou aberto para novas oportunidades.
 - ❤️ Gosto de Front-end e Back-end.
-- 📖 Atualmente cursando Sistemas para Internet.
+- 👨‍🎓 Atualmente cursando Sistemas para Internet.
 
 <div>
 
