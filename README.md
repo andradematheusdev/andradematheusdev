@@ -13,7 +13,7 @@
 
 ##### 🤖 Minha atividade no GitHub
 
-<div style="display: inline_block;">
+<div style="display: inline_block;" align="center">
   <a href="https://github.com/heloriel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=gotham"/>
@@ -24,6 +24,7 @@
   
   ##### 🧠 Skills Set 
  
+  <div style="display: inline_block;">
  <kbd align="center">
       <kbd>Conhecimento em:</kbd>
       <br />
@@ -54,6 +55,7 @@
       <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">        <br />
  <br />
  </kbd>
+  </div>
  
  ##
  
