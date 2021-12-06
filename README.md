@@ -1,4 +1,4 @@
-# Hello World! Wellcome to my space! 😁
+# Hello World! Welcome to my space! 😁
 
 ##### 🧍 Sobre mim
 
