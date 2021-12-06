@@ -1,13 +1,11 @@
 # Hello World! Welcome to my space! 😁
 
-##### 🧍 Sobre mim
-
-###### Sou um estudante de programação que ama técnologia!
+##### Sou um estudante de programação que ama técnologia!
 
 - 🎂 26 Anos
 - 💼 Atualmente trabalho como Designer Gráfico, porém estou aberto para novas oportunidades.
 - ❤️ Gosto de Front-end e Back-end.
-- 👨‍🎓 Atualmente cursando Sistemas para Internet.
+- 👨‍🎓 Cursando Sistemas para Internet.
 
 <div>
 
