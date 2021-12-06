@@ -1,6 +1,8 @@
-# Olá, bem vindo(a) ao meu espaço! 😁
+# Hello World! Wellcome to my space! 😁
 
-##### Sou um estudante de programação que ama técnologia!
+##### 🧍 Sobre mim
+
+###### Sou um estudante de programação que ama técnologia!
 
 - 🎂 26 Anos
 - 💼 Atualmente trabalho como Designer Gráfico, porém estou aberto para novas oportunidades.
@@ -22,7 +24,7 @@
  
  ##
   
-  ##### 🧠 Skills Set 
+  ##### 🧠 Skills set 
  
   <div style="display: inline_block;">
  <kbd align="center">
@@ -61,7 +63,7 @@
  
  ##
  
-  ##### 💬 Meus Contatos 
+  ##### 💬 Meus contatos
   
   <div>
     <a href="https://www.linkedin.com/in/matheus-andrade-ba2b16226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
