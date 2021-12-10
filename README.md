@@ -24,7 +24,7 @@
   
   ##### 🧠 Skills set 
  
-  <div style="display: inline_block;">
+ <div style="display: block;" align="center">
  <kbd align="center">
       <kbd>Conhecimento em:</kbd>
       <br />
