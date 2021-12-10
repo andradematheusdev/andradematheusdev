@@ -24,7 +24,7 @@
   
   ##### 🧠 Skills set 
  
- <div style="display: block;" align="center">
+ <div style="display: block;">
  <kbd align="center">
       <kbd>Conhecimento em:</kbd>
       <br />
