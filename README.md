@@ -13,7 +13,7 @@
 
 ##### 🤖 Minha atividade no GitHub
 
-<div style="display: inline_block;" align=>
+<div style="display: inline_block;" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=gotham&border_radius=0"/>
 </div>
