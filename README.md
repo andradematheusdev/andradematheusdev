@@ -13,47 +13,44 @@
 
 ##### 🤖 Minha atividade no GitHub
 
-<div style="display: inline_block;" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=22"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=gotham&border_radius=16"/>
+<div style="display: inline_block;" align=>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=gotham&border_radius=0"/>
 </div>
  
  ##
   
   ##### 🧠 Skills set 
  
- <div style="display: block;">
- <kbd align="center">
-      <kbd>Conhecimento em:</kbd>
-      <br />
-      <br />
-      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-      <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-<br />
-<br /> 
-</kbd>
-<kbd align="center">
-<kbd>Estudando:</kbd>
- <br />
- <br />
-      <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-      <img align="center" title="Laravel 8" alt="Laravel 8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <br />
- <br />
-</kbd> 
-<kbd align="center">
-<kbd>Interesse em:</kbd> 
-     <br />
-     <br />
-      <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-      <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">        <br />
- <br />
- </kbd>
+ <div>
+   <table>
+     <tr>
+       <td align="center">Conhecimento em:</td>
+       <td align="center">Estudando Atualmente:</td>
+       <td align="center">Interessen em aprender:</td>
+     </tr>
+     <tr>
+       <td align="center">
+         <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+         <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+         <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+         <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+         <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+         <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+       </td>
+       <td align="center">
+        <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+        <img align="center" title="Laravel 8" alt="Laravel 8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+        <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+       </td>
+       <td align="center">
+        <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+        <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+         <img align="center" title="NextJS" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+       </td>
+    </tr>
+   </table>
   </div>
  
  ##
