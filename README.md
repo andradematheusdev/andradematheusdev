@@ -1,4 +1,4 @@
-# Hello World! Welcome to my space! 😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+/>&size=64&height=100&width=1920&center=true)](https://git.io/typing-svg)
 
 ##### Sou um estudante de programação que ama técnologia!
 
@@ -12,15 +12,15 @@
 ##
 
 ##### 🤖 Minha atividade no GitHub
-
+  
 <div style="display: inline_block;" align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=gotham&border_radius=0"/>
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=heloriel&hide_border=true&theme=react" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
 </div>
  
  ##
   
-  ##### 🧠 Skills set 
+ ##### 🧠 Skills set
  
  <div>
    <table>
