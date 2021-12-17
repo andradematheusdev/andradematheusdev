@@ -3,7 +3,7 @@
 ##### Sou um estudante de programação que ama técnologia!
 
 - 🎂 26 Anos
-- 💼 Atualmente trabalho como Designer Gráfico, porém estou aberto para novas oportunidades.
+- 💼 Atualmente trabalho como Designer Gráfico.
 - ❤️ Gosto de Front-end e Back-end.
 - 👨‍🎓 Cursando Sistemas para Internet.
 
