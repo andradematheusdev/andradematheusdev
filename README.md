@@ -27,7 +27,7 @@
      <tr>
        <td align="center">Conhecimento em:</td>
        <td align="center">Estudando Atualmente:</td>
-       <td align="center">Interessen em aprender:</td>
+       <td align="center">Interesse em aprender:</td>
      </tr>
      <tr>
        <td align="center">
