@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+/>&size=64&height=100&width=1920&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<Hello+World+/>&size=64&height=100&width=1920&center=true&color=61D9FA)](https://git.io/typing-svg)
 
 ##### Sou um estudante de programação que ama técnologia!
 
