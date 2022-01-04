@@ -22,7 +22,7 @@
   
  ##### 🧠 Skills set
  
- <div>
+ <div align="center">
    <table>
      <tr>
        <td align="center">Conhecimento em:</td>
