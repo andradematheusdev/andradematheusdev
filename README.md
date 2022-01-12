@@ -60,5 +60,6 @@
   <div>
     <a href="https://www.linkedin.com/in/matheus-andrade-ba2b16226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href = "mailto:andradematheus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/BYZ8pET" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- </div>
+ <a href="https://discord.gg/BYZ8pET" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://codepen.io/heloriel" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="20"><img src="https://img.shields.io/badge/Codepen.io-282A31?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a>
+  </div>
