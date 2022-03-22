@@ -4,8 +4,8 @@
 
 - 🎂 26 Anos
 - 💼 Atualmente trabalho como Designer Gráfico.
-- ❤️ Gosto de Front-end e Back-end.
-- 👨‍🎓 Cursando Sistemas para Internet.
+- ❤️ Gosto de Front-end e Back-end, porém meu foco é me especializar em front-end com React.
+- 👨‍🎓 Cursando "Sistemas para Internet".
 
 <div>
 
@@ -25,7 +25,7 @@
  <div align="center">
    <table>
      <tr>
-       <td align="center">🧠 Skills set</td>
+       <td align="center">🧠 Conhecimentos</td>
      </tr>
      <tr>
        <td align="center">
