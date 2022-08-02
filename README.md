@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<HelloWorld+/>&size=64&height=100&width=1920&center=true&color=61D9FA)](https://git.io/typing-svg)
 
-##### Sou um estudante de programação que ama técnologia!
+##### Desenvolvedor Front-end!
 
 - 🎂 27 Anos
 - 💼 Atualmente trabalho como Designer Gráfico.
@@ -13,22 +13,16 @@
 
 ##### 🤖 Minha atividade no GitHub
   
-<div style="display: inline_block;" align="center">
+<div>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=heloriel&hide_border=true&theme=react" />
   <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
 </div>
  
  ##
-  
- ##### 
+   
+ ##### 🧠 Conhecimentos
  
- <div align="center">
-   <table>
-     <tr>
-       <td align="center">🧠 Conhecimentos</td>
-     </tr>
-     <tr>
-       <td align="center">
+ <div>
          <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
          <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
          <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,9 +36,7 @@
          <img align="center" title="NextJS (Estudando)" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
          <img align="center" title="GraphQL (Estudando)" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
          <img align="center" title="Tailwind CSS (Estudando)" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">
-       </td>
-    </tr>
-   </table>
+       
   </div>
  
  ##
