@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<HelloWorld+/>&size=64&height=100&width=1920&center=true&color=61D9FA)](https://git.io/typing-svg)
 
-##### Desenvolvedor Front-end!
+##### Desenvolvedor Front-end
 
 - 🎂 27 Anos
 - 💼 Atualmente trabalho como Designer Gráfico.
-- ❤️ Estou me especializando em front-end com React e TypeScript.
-- 👨‍🎓 Cursando "Sistemas para Internet".
+- ❤️ Minha stack favorita para o front é React, TypeScript e Tailwind.
+- 👨‍🎓 Graduando em "Sistemas para Internet".
 
 <div>
 
