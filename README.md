@@ -22,7 +22,7 @@
    
  ##### 🧠 Conhecimentos
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,react,nextjs,laravel,php,graphql,python)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,react,nextjs,php,laravel,graphql,python)](https://skillicons.dev)
  
  ##
  
