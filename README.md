@@ -3,9 +3,9 @@
 ##### Desenvolvedor Front-end
 
 - 🎂 27 Anos
-- 💼 Atualmente trabalho como Designer Gráfico.
-- ❤️ Minha stack favorita para o front é React, TypeScript e Tailwind.
-- 👨‍🎓 Graduando em "Sistemas para Internet".
+- 💼 Desenvolvedor Front-end
+- ❤️ Stack favorita: React + TypeScript + Tailwind
+- 👨‍🎓 Cursando Sistemas para Internet
 
 <div>
 
