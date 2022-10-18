@@ -14,8 +14,8 @@
 ##### 🤖 Minha atividade no GitHub
   
 <div>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=heloriel&hide_border=true&theme=react" />
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloriel&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradematheusdev&hide_border=true&theme=react" />
+  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradematheusdev&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
 </div>
  
  ##
