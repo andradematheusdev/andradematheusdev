@@ -20,7 +20,7 @@
    
  ### 💻 Conhecimentos
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,php,laravel,graphql,python,figma,photoshop,vite)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,php,laravel,graphql,python,figma,photoshop,premiere,vite,git,linux,prisma,mysql)](https://skillicons.dev)
  
  ##
  
