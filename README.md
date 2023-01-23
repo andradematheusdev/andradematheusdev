@@ -1,35 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<HelloWorld+/>&size=64&height=100&width=1920&center=true&color=61D9FA)](https://git.io/typing-svg)
+# Olá! Eu sou o Matheus. :wave:
 
-##### Desenvolvedor Front-end
+### Sobre mim
 
-- 🎂 27 Anos
 - 💼 Desenvolvedor Front-end
-- ❤️ Stack favorita: React + TypeScript + Tailwind
 - 👨‍🎓 Cursando Sistemas para Internet
 
 <div>
 
 ##
 
-##### 🤖 Minha atividade no GitHub
+### 📈 Minha atividade no GitHub
   
 <div>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradematheusdev&hide_border=true&theme=react" />
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradematheusdev&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradematheusdev&hide_border=true&theme=react" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradematheusdev&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true"/>
 </div>
  
  ##
    
- ##### 🧠 Conhecimentos
- 
+ ### 💻 Conhecimentos
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,php,laravel,graphql,python,figma,photoshop,vite)](https://skillicons.dev)
  
  ##
  
-  ##### 💬 Meus contatos
+  ### 💬 Meus contatos
   
   <div>
     <a href="https://www.linkedin.com/in/matheus-andrade-ba2b16226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href = "mailto:andradematheus.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://codepen.io/heloriel" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="20"><img src="https://img.shields.io/badge/Codepen.io-282A31?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a>
   </div>
