@@ -3,7 +3,8 @@
 ### Sobre mim
 
 - 💼 Desenvolvedor Front-end
-- 👨‍🎓 Cursando Sistemas para Internet
+- 👨‍🎓 Formado em Sistemas para Internet
+- ❤️ React, TypeScript, Tailwind. 
 
 <div>
 
