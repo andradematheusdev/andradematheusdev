@@ -13,7 +13,7 @@
 ### 📈 Minha atividade no GitHub
   
 <div>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradematheusdev&hide_border=false&border_radius=24&theme=react" />
+  <!-- <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradematheusdev&hide_border=false&border_radius=24&theme=react" /> -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradematheusdev&layout=compact&langs_count=7&theme=react&border_radius=24&hide_border=false"/>
 </div>
  
